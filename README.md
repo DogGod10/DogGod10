@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-  👋 Hello there! I go by "Dog God" online, a passionate young programmer with big dreams of becoming a software engineer. 💻 Currently honing my skills and expanding my knowledge in coding, I'm eager to contribute to impactful projects and collaborate with fellow developers.
+  👋 Hello there! I go by "Dog God" online, a passionate young programmer with big dreams of becoming a software engineer. 💻 Currently honing my skills and expanding my knowledge in coding.
 
 ## Skills
   <a href=https://isocpp.org/home/terms-of-use>
